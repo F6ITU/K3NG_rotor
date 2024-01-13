@@ -15,4 +15,4 @@ https://github.com/k3ng/k3ng_rotator_controller
 ![K3NG rotator, component side](https://github.com/F6ITU/K3NG_rotor/blob/main/Pictures/IMG_20240113_153802.jpg)
 
 
-![K3NG rotator, bottom side](https://github.com/F6ITU/K3NG_rotor/blob/main/Pictures/IMG_20240113_154300.jpg
+![K3NG rotator, bottom side](https://github.com/F6ITU/K3NG_rotor/blob/main/Pictures/IMG_20240113_154300.jpg)
