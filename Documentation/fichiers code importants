@@ -1,0 +1,6 @@
+fichiers stratégiques : 
+
+rotator_feature (langue, afficheur utilisé etc)
+rotator_settings : angle du rotor, vitesse etc
+rotator pins : assignations des e/s de l'arduino
+rotator_display : // ou I2C
